@@ -9,3 +9,7 @@ description: Oleksandr Savenkov's links
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 
 - [Bioconductor](https://www.bioconductor.org/)
+
+- [R Bloggers](https://www.r-bloggers.com/)
+
+- [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
