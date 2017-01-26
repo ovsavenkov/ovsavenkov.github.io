@@ -4,4 +4,4 @@ title: Useful links
 description: Oleksandr Savenkov's links
 ---
 
-- [Emacs](https://vigou3.github.io/emacs-modified-macos/)
+- [Emacs for Mac](https://vigou3.github.io/emacs-modified-macos/)
