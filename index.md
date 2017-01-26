@@ -8,16 +8,17 @@ description: Oleksandr Savenkov is a Postdoctoral Associate at Weill Cornell Med
 
     <div class="col-1">
     </div>
-<div class="col-2">
+    <div class="col-2">
         <img SRC = "portrait.jpg" BORDER = "0">
-</div>
+    </div>
 
-<div class="col-4">
+    <div class="col-4">
     <div class="title">
     <b>Oleksandr V. Savenkov</b><br>
     Postdoctoral Associate<br>
     Division of Biostatistics and Epidemiology<br>
-    Weill Cornell Medicine
+    Weill Cornell Medicine<br>
+    <b>Email:<b>ols2010 AT med DOT cornell DOT edu
     </div>
 </div>    
 
