@@ -16,7 +16,6 @@ description: Oleksandr Savenkov is a Postdoctoral Associate at Weill Cornell Med
     <div class="title">
     <b>Oleksandr V. Savenkov</b>
     Postdoctoral Associate
-    Email:ovsavenkov AT gmail DOT com
     </div>
 </div>    
 
