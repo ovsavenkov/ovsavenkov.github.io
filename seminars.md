@@ -17,4 +17,4 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** \\
-**Speaker:** Iv\'{a}n D\'{i}az
+**Speaker:** Dr. Ivan Diaz
