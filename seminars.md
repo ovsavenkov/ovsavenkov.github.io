@@ -6,7 +6,7 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 01-31-2017
 **Time:** 3-4pm\\
 **Location:** C-1 Conference room \\
-**Title:** "With Application to a Breast Cancer Clinical Trial" \\
+**Title:** "Predictive Biomarkers With Application to a Breast Cancer Clinical Trial" \\
 **Speaker:** Oleksandr Savenkov
 
 <br>
