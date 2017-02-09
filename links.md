@@ -13,3 +13,5 @@ description: Oleksandr Savenkov's links
 - [R Bloggers](https://www.r-bloggers.com/)
 
 - [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
+
+- [RStudio Blog](https://blog.rstudio.org/)
