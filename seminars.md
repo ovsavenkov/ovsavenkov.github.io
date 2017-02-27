@@ -23,7 +23,7 @@ description: Division of Biostatistics and Epidemiology Seminars
 <br>
 <br>
 
-#### 02-14-2017 (Cancelled)
+#### 02-28-2017 
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** "Causal Inference in R"\\
