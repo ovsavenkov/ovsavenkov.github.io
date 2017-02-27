@@ -23,8 +23,8 @@ description: Division of Biostatistics and Epidemiology Seminars
 <br>
 <br>
 
-#### 02-28-2017 
+#### 02-28-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:** "Causal Inference in R"\\
+**Title:** "A causal inference primer with examples in R"\\
 **Speaker:** Dr. Ivan Diaz
