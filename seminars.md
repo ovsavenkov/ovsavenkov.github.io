@@ -43,5 +43,5 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 03-28-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:** "Reproducible Research "\\
+**Title:** "Reproducible Research"\\
 **Speaker:** Dr. Davide Risso
