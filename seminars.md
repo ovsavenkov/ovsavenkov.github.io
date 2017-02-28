@@ -18,7 +18,9 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** "A causal inference primer with examples in R"\\
-**Speaker:** Dr. Ivan Diaz
+**Speaker:** Dr. Ivan Diaz\\
+**Slides:** [Slides](../slides/talk.html)
+
 
 <br>
 <br>
