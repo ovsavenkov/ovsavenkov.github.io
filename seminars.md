@@ -13,7 +13,6 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:** "Predictive Biomarkers With Application to a Breast Cancer Clinical Trial" \\
 **Speaker:** Oleksandr Savenkov
 
-
 <br>
 <br>
 <br>
@@ -25,17 +24,6 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Speaker:** Dr. Ivan Diaz\\
 **Slides:** [Slides](../slides/talk.html)
 
-
-<br>
-<br>
-<br>
-
-#### 03-14-2017 (CANCELLED)
-**Time:** 3-4pm \\
-**Location:** C-1 Conference room \\
-**Title:** "Prognostic Significance of Digital Rectal Examination and Prostate Specific Antigen in the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Arm: A Statistician’s view"\\
-**Speaker:** Clara Oromendia
-
 <br>
 <br>
 <br>
@@ -45,3 +33,13 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Location:** C-1 Conference room \\
 **Title:** "Reproducible Research"\\
 **Speaker:** Dr. Davide Risso
+
+<br>
+<br>
+<br>
+
+#### 04-11-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:** "Prognostic Significance of Digital Rectal Examination and Prostate Specific Antigen in the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Arm: A Statistician’s view"\\
+**Speaker:** Clara Oromendia
