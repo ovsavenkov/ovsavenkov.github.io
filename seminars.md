@@ -33,6 +33,9 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Location:** C-1 Conference room \\
 **Title:** "Reproducible Research"\\
 **Speaker:** Dr. Davide Risso
+**Slides:** [Slides for presentation](http://rpubs.com/daviderisso/reproducible_research)
+**Repository:**[GitHub Repository](https://github.com/drisso/reproducible_research)
+
 
 <br>
 <br>
