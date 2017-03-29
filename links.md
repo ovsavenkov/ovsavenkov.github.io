@@ -15,3 +15,5 @@ description: Oleksandr Savenkov's links
 - [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
 
 - [RStudio Blog](https://blog.rstudio.org/)
+
+- [Darren Wilkinson's research blog](https://darrenjw.wordpress.com/)
