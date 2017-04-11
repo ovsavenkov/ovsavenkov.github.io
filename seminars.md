@@ -45,5 +45,5 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** "Screening for Prostate Cancer: A Statistician’s view"\\
-**Speaker:** Clara Oromendia
+**Speaker:** Clara Oromendia\\
 **Slides:** [Slides](../slides/Presentation.pdf)
