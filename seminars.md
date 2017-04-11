@@ -44,5 +44,6 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 04-11-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:** "Prognostic Significance of Digital Rectal Examination and Prostate Specific Antigen in the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Arm: A Statistician’s view"\\
+**Title:** "Screening for Prostate Cancer: A Statistician’s view"\\
 **Speaker:** Clara Oromendia
+**Slides:** [Slides](../slides/Presentation.pdf)
