@@ -47,3 +47,14 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:** "Screening for Prostate Cancer: A Statistician’s view"\\
 **Speaker:** Clara Oromendia\\
 **Slides:** [Presentation](../slides/Presentation.pdf)
+
+
+<br>
+<br>
+<br>
+
+#### 04-11-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**
+**Speaker:** Dr. Zhengming Chen
