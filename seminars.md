@@ -53,7 +53,7 @@ description: Division of Biostatistics and Epidemiology Seminars
 <br>
 <br>
 
-#### 04-25-2017
+#### 05-09-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:**                        \\
