@@ -57,8 +57,8 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** Reproducible research with SAS (ODS, Macro etc)   \\
-**Speaker:** Dr. Zhengming Chen
-
+**Speaker:** Dr. Zhengming Chen\\
+**Slides:** [Presentation](../slides/Reproducible research SAS.pdf)
 
 <br>
 <br>
@@ -68,4 +68,4 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:**  \\
-**Speaker:** 
+**Speaker:**
