@@ -70,3 +70,14 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:**  Introduction to ensemble methods\\
 **Speaker:** Oleksandr Savenkov\\
 **Slides:** [Presentation](../slides/present_ensembles.html)
+
+
+<br>
+<br>
+<br>
+
+#### 06-06-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**    \\
+**Speaker:** Kartikey Grover\\
