@@ -82,3 +82,37 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:**    \\
 **Speaker:** Kartikey Grover\\
 **Slides:**
+
+<br>
+<br>
+<br>
+
+#### 06-20-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**    \\
+**Speaker:** Elizabeth Mauer\\
+**Slides:**
+
+<br>
+<br>
+<br>
+
+#### 07-18-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**    \\
+**Speaker:** Amanda Artis\\
+**Slides:**
+
+
+<br>
+<br>
+<br>
+
+#### 07-18-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**    \\
+**Speaker:** Gulce Askin\\
+**Slides:**
