@@ -90,7 +90,7 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 06-20-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:**    \\
+**Title:** R Shiny   \\
 **Speaker:** Elizabeth Mauer\\
 **Slides:**
 
