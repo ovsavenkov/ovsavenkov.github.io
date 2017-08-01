@@ -17,3 +17,5 @@ description: Oleksandr Savenkov's links
 - [RStudio Blog](https://blog.rstudio.org/)
 
 - [Darren Wilkinson's research blog](https://darrenjw.wordpress.com/)
+
+- [UseR!2016]https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016

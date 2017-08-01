@@ -94,17 +94,6 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Speaker:** Elizabeth Mauer\\
 **Slides:**
 
-<br>
-<br>
-<br>
-
-#### 07-18-2017
-**Time:** 3-4pm \\
-**Location:** C-1 Conference room \\
-**Title:**    \\
-**Speaker:** Amanda Artis\\
-**Slides:**
-
 
 <br>
 <br>
@@ -113,6 +102,6 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 08-01-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:**    \\
+**Title:** Plotting and Data Visualization for Biostatistical Consulting \\
 **Speaker:** Gulce Askin\\
 **Slides:**
