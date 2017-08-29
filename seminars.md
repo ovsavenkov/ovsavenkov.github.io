@@ -114,4 +114,4 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:** Why Propensity Scores Should Not Be Used for Matching \\
-**Speaker:** Hanhan Wang\\
+**Speaker:** Hanhan Wang 
