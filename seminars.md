@@ -105,3 +105,13 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:** Plotting and Data Visualization for Biostatistical Consulting \\
 **Speaker:** Gulce Askin\\
 **Slides:** [Presentation](../slides/PDV_8_1_2017_fin.pdf)
+
+<br>
+<br>
+<br>
+
+#### 08-29-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:** Why Propensity Scores Should Not Be Used for Matching \\
+**Speaker:** Hanhan Wang\\
