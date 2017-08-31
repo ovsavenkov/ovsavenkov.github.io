@@ -127,4 +127,4 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:**  \\
-**Speaker:** Xian Wu \\
+**Speaker:** Xian Wu 
