@@ -116,3 +116,15 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:** Why Propensity Scores Should Not Be Used for Matching \\
 **Speaker:** Hanhan Wang \\
 **Slides:** [Presentation](../slides/hanhan.pdf)
+
+
+
+<br>
+<br>
+<br>
+
+#### 09-26-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:**  \\
+**Speaker:** Xian Wu \\
