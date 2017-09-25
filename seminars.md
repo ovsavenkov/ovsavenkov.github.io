@@ -123,8 +123,8 @@ description: Division of Biostatistics and Epidemiology Seminars
 <br>
 <br>
 
-#### 09-26-2017
+#### 10-10-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
 **Title:**  \\
-**Speaker:** Xian Wu 
+**Speaker:** Xian Wu
