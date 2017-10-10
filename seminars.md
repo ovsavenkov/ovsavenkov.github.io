@@ -126,5 +126,5 @@ description: Division of Biostatistics and Epidemiology Seminars
 #### 10-10-2017
 **Time:** 3-4pm \\
 **Location:** C-1 Conference room \\
-**Title:**  \\
+**Title:** Data Sources for Epidemiological Studies\\
 **Speaker:** Xian Wu
