@@ -139,4 +139,4 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Location:** C-1 Conference room \\
 **Title:** Random Survival Forests\\
 **Speaker:** Aleksandr Savenkov\\
-**Slides:**
+**Slides:**[Presentation](../slides/random_sf.html)
