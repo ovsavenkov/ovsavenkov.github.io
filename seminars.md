@@ -129,3 +129,14 @@ description: Division of Biostatistics and Epidemiology Seminars
 **Title:** Data Sources for Epidemiological Studies\\
 **Speaker:** Xian Wu\\
 **Slides:** [Presentation](../slides/xian_wu.pdf)
+
+<br>
+<br>
+<br>
+
+#### 11-21-2017
+**Time:** 3-4pm \\
+**Location:** C-1 Conference room \\
+**Title:** Random Survival Forests\\
+**Speaker:** Aleksandr Savenkov\\
+**Slides:**
