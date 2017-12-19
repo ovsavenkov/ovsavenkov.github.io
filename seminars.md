@@ -5,6 +5,8 @@ description: Division of Biostatistics and Epidemiology Seminars
 ---
 [Suggested topics for the seminar series](https://docs.google.com/spreadsheets/d/1KrXSiqZPRx9iDV3CXFLiEDMdu_SPZcRrTJW1_Yy4Dhs/edit#gid=0)
 
+[lecture](../slides/lecture_1219.pdf)
+
 <br>
 
 #### 01-31-2017
