@@ -19,3 +19,7 @@ description: Oleksandr Savenkov's links
 - [Darren Wilkinson's research blog](https://darrenjw.wordpress.com/)
 
 - [UseR!2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+
+- [awesome-R](https://awesome-r.com/)
+
+- [Happy Git and R](http://happygitwithr.com/)
