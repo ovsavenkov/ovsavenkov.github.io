@@ -3,8 +3,8 @@ layout: page
 title: Division of Biostatistics and Epidemiology Seminars
 description: Division of Biostatistics and Epidemiology Seminars
 ---
-[Suggested topics for the seminar series](https://docs.google.com/spreadsheets/d/1KrXSiqZPRx9iDV3CXFLiEDMdu_SPZcRrTJW1_Yy4Dhs/edit#gid=0)
 
+[Biostatistics 1 (labs)](../slides/objectives.pdf)
 
 
 <br>
