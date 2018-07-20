@@ -4,8 +4,6 @@ title: Division of Biostatistics and Epidemiology Seminars
 description: Division of Biostatistics and Epidemiology Seminars
 ---
 
-[Biostatistics 1 (labs)](../slides/objectives.pdf)
-
 
 <br>
 
