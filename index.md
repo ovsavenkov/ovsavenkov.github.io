@@ -18,7 +18,6 @@ description: Oleksandr Savenkov is a Postdoctoral Associate at Weill Cornell Med
     Assistant Professor<br>
     Division of Biostatistics and Epidemiology<br>
     Weill Cornell Medicine<br>
-    <b>Email:</b> ov DOT savenkov AT gmail DOT com
     </div>
 </div>    
 
